@@ -1,6 +1,6 @@
 # Hi there! I'm Farhan Siddiq Al Farisi 👋
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/farhan-siddiq-al-farisi)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/farhansiddiqalfarisi/)
 [![Email Badge](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:farhansiddiqalfarisi@gmail.com)
 
 Welcome to my GitHub profile! I'm a detail-oriented **QA Engineer** and Computer Engineering Graduate specializing in ensuring software quality, reliability, and performance. This profile showcases my practical experience in building robust test automation frameworks.
