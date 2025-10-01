@@ -1,11 +1,47 @@
-# Halo semua! 
+# Hi there! I'm Farhan Siddiq Al Farisi 👋
 
-Perkenalkan nama saya **Farhan Siddiq Al Farisi**.\
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/farhan-siddiq-al-farisi)
+[![Email Badge](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:farhansiddiqalfarisi@gmail.com)
 
-Saya seorang **Mahasiswa** di [UPI] Jurusan Teknik Komputer(https://tekkom.upi.edu/).
+Welcome to my GitHub profile! I'm a detail-oriented **QA Engineer** and Computer Engineering Graduate specializing in ensuring software quality, reliability, and performance. This profile showcases my practical experience in building robust test automation frameworks.
 
-Saya senang dalam mengikuti perkembangan Teknologi.\
+## About Me
 
-Saya juga memiliki kesenangan dalam pemograman.\
+💻 I specialize in **Test Automation** (UI & API), **Performance Testing**, and **Bug Tracking**, built on a strong foundation of **SDLC/STLC** and **Cloud** technologies. <br>
+🚀 I'm leveraging my experience from **Bangkit Academy** and **Celerates Cybersecurity** to deliver secure and high-quality applications. <br>
+🌱 I'm currently mastering advanced E2E scenarios and integrating CI/CD pipelines for automated testing. <br>
+👯 I'm open to collaborating on open-source QA and software testing projects to enhance code coverage and quality. <br>
+⚡ I enjoy designing comprehensive **Test Cases**, optimizing automation scripts, and solving critical quality issues before production. <br>
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](/)ku ya.
+---
+
+# 🛠️ QA & Tech Stack:
+
+Berikut adalah *tools* utama yang saya gunakan untuk menjamin kualitas perangkat lunak:
+
+### **Automation & QA Tools**
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![JMeter](https://img.shields.io/badge/JMeter-E44D26?style=for-the-badge&logo=apachejmeter&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-for-the-badge&logo=postman&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Agile](https://img.shields.io/badge/Methodology-Agile%2FScrum-007ACC?style=for-the-badge&logo=jira)
+
+### **Programming & Scripting (Foundation for Automation)**
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+### **Cloud & Security**
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+# 📊 GitHub Stats:
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=[YourUsername]&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[YourUsername]&layout=compact&theme=tokyonight)
+
+
+---
+[![](https://visitcount.itsvg.in/api?id=[YourUsername]&icon=0&color=0)](https://visitcount.itsvg.in)
