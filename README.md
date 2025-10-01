@@ -22,10 +22,18 @@ Berikut adalah *tools* utama yang saya gunakan untuk menjamin kualitas perangkat
 ### **Automation & QA Tools**
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![JMeter](https://img.shields.io/badge/JMeter-E44D26?style=for-the-badge&logo=apachejmeter&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-for-the-badge&logo=postman&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![BurpSuite](https://img.shields.io/badge/BurpSuite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+
+### **QA Methodologies**
 ![Agile](https://img.shields.io/badge/Methodology-Agile%2FScrum-007ACC?style=for-the-badge&logo=jira)
+![SDLC](https://img.shields.io/badge/Process-SDLC-5391FE?style=for-the-badge)
+![STLC](https://img.shields.io/badge/Process-STLC-5391FE?style=for-the-badge)
 
 ### **Programming & Scripting (Foundation for Automation)**
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
