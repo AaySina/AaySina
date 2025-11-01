@@ -3,15 +3,15 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/farhansiddiqalfarisi/)
 [![Email Badge](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:farhansiddiqalfarisi@gmail.com)
 
-Welcome to my GitHub profile! I'm a detail-oriented **QA Engineer** and Computer Engineering Graduate specializing in ensuring software quality, reliability, and performance. This profile showcases my practical experience in building robust test automation frameworks.
+Welcome to my GitHub profile! I'm a detail-oriented **QA Engineer** and Computer Engineering Graduate specializing in ensuring software quality, reliability, and performance. This profile showcases my practical experience in case to position QA/Software Tester or similar like that.
 
 ## About Me
 
-💻 I specialize in **Test Automation** (UI & API), **Performance Testing**, and **Bug Tracking**, built on a strong foundation of **SDLC/STLC** and **Cloud** technologies. <br>
+💻 I specialize in **Test Automation** (UI & API), **Performance Testing**, and **Bug Tracking**, built on a strong foundation of **SDLC/STLC**. <br>
 🚀 I'm leveraging my experience from **Bangkit Academy** and **Celerates Cybersecurity** to deliver secure and high-quality applications. <br>
 🌱 I'm currently mastering advanced E2E scenarios and integrating CI/CD pipelines for automated testing. <br>
 👯 I'm open to collaborating on open-source QA and software testing projects to enhance code coverage and quality. <br>
-⚡ I enjoy designing comprehensive **Test Cases**, optimizing automation scripts, and solving critical quality issues before production. <br>
+⚡ I enjoy designing comprehensive **Test Cases**, and solving critical quality issues before production. <br>
 
 ---
 
