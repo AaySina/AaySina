@@ -55,7 +55,7 @@ Kumpulan proyek pengujian, mulai dari *Manual Testing* hingga implementasi *Auto
 
 | No | Proyek Pengujian | Fokus Utama | Tautan Detail |
 |----|-----------------------------------------------------------|---------------------------------------------------|---------------|
-| 1 | **API & Database Testing** | Pengujian CRUD API & Verifikasi Data (PostgreSQL). | [Lihat Detail](https://github.com/AaySina/QA-Portfolio-Projects/tree/main/01-API_DATABASE_TESTING) |
+| 1 | **API & Database Testing** | Pengujian CRUD API & Verifikasi Data (PostgreSQL, Postman). | [Lihat Detail](https://github.com/AaySina/QA-Portfolio-Projects/tree/main/01-API_DATABASE_TESTING) |
 | 2 | **Compatibility Testing (Dibimbing.com)** | Pengujian Kompatibilitas Lintas Peramban/Perangkat. | [Lihat Detail](https://github.com/AaySina/QA-Portfolio-Projects/tree/main/02-COMPATIBILITY_TESTING_Dibimbing) |
 | 3 | **Regression Testing (Dibimbing.com)** | Re-pengujian Fitur Utama & Tambahan (Login SSO, Promo). | [Lihat Detail](https://github.com/AaySina/QA-Portfolio-Projects/tree/main/03-REGRESSION_TESTING_Dibimbing) |
 | 4 | **Test Case & Scenario (DemoQA.com)** | Desain Test Case untuk Elemen UI, Widgets, dan Forms. | [Lihat Detail](https://github.com/AaySina/QA-Portfolio-Projects/tree/main/04-TEST_CASE_SCENARIO_DEMOAQA) |
