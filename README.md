@@ -9,7 +9,6 @@ Welcome to my GitHub profile! I'm a detail-oriented **QA Engineer** and Computer
 
 💻 I specialize in **Test Automation** (UI & API), **Performance Testing**, and **Bug Tracking**, built on a strong foundation of **SDLC/STLC**. <br>
 🚀 I'm leveraging my experience from **Bangkit Academy** and **Celerates Cybersecurity** to deliver secure and high-quality applications. <br>
-🌱 I'm currently mastering advanced E2E scenarios and integrating CI/CD pipelines for automated testing. <br>
 👯 I'm open to collaborating on open-source QA and software testing projects to enhance code coverage and quality. <br>
 ⚡ I enjoy designing comprehensive **Test Cases**, and solving critical quality issues before production. <br>
 
@@ -22,7 +21,7 @@ Berikut adalah *tools* utama yang saya gunakan untuk menjamin kualitas perangkat
 ### **Automation & QA Tools**
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![JMeter](https://img.shields.io/badge/JMeter-E44D26?style=for-the-badge&logo=apachejmeter&logoColor=white)
-![TestNg](https://img.shields.io/badge/TestNG-FFCC00?style=for-the-badge&logo=testng&logoColor=black)
+![TestNg](https://img.shields.io/badge/TestNG-FF0000?style=for-the-badge&logo=testng&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
