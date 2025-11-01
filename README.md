@@ -21,7 +21,7 @@ Berikut adalah *tools* utama yang saya gunakan untuk menjamin kualitas perangkat
 ### **Automation & QA Tools**
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![JMeter](https://img.shields.io/badge/JMeter-E44D26?style=for-the-badge&logo=apachejmeter&logoColor=white)
-![TestNg](https://img.shields.io/badge/TestNG-FF0000?style=for-the-badge&logo=testng&logoColor=white)
+![TestNG](https://img.shields.io/badge/TestNG-FF0000?style=for-the-badge&logo=testng&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -46,6 +46,22 @@ Berikut adalah *tools* utama yang saya gunakan untuk menjamin kualitas perangkat
 ![BurpSuite](https://img.shields.io/badge/BurpSuite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+## 📂 My Testing Portfolio Projects
+
+Kumpulan proyek pengujian, mulai dari *Manual Testing* hingga implementasi *Automation* sederhana, yang menunjukkan kemampuan saya dalam menjamin kualitas aplikasi. Setiap folder berisi Test Cases, Hasil Uji, dan *Bug Reports*.
+
+| No | Proyek Pengujian | Fokus Utama | Tautan Detail |
+|----|-----------------------------------------------------------|---------------------------------------------------|---------------|
+| 1 | **API & Database Testing** | Pengujian CRUD API & Verifikasi Data (PostgreSQL). | [Lihat Detail](01-API_DATABASE_TESTING/README.md) |
+| 2 | **Compatibility Testing (Dibimbing.com)** | Pengujian Kompatibilitas Lintas Peramban/Perangkat. | [Lihat Detail](02-COMPATIBILITY_TESTING_Dibimbing/README.md) |
+| 3 | **Regression Testing (Dibimbing.com)** | Re-pengujian Fitur Utama & Tambahan (Login SSO, Promo). | [Lihat Detail](03-REGRESSION_TESTING_Dibimbing/README.md) |
+| 4 | **Test Case & Scenario (DemoQA.com)** | Desain Test Case untuk Elemen UI, Widgets, dan Forms. | [Lihat Detail](04-TEST_CASE_SCENARIO_DEMOAQA/README.md) |
+| 5 | **Exploratory & Accessibility Testing (Tokopedia)** | Pengujian Eksplorasi Cepat & Evaluasi Aksesibilitas (WCAG). | [Lihat Detail](05-EXPLORATORY_ACCESSIBILITY_TESTING_TOKOPEDIA/README.md) |
+| 6 | **Automation Testing Selenium Beginner (DemoQA.com)** | Pengujian Automation Menggunakan Framework (TestNG). | [Lihat Detail]()|
+---
 
 # 📊 GitHub Stats:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=[YourUsername]&show_icons=true&theme=tokyonight)
