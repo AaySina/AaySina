@@ -22,6 +22,7 @@ Berikut adalah *tools* utama yang saya gunakan untuk menjamin kualitas perangkat
 ### **Automation & QA Tools**
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![JMeter](https://img.shields.io/badge/JMeter-E44D26?style=for-the-badge&logo=apachejmeter&logoColor=white)
+![TestNg](https://img.shields.io/badge/TestNG-FFCC00?style=for-the-badge&logo=testng&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
