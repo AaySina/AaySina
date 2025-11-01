@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a detail-oriented **QA Engineer** and Computer
 
 ## About Me
 
-💻 I specialize in **Test Automation** (UI & API), **Performance Testing**, and **Bug Tracking**, built on a strong foundation of **SDLC/STLC**. <br>
+💻 I specialize in both **Manual Testing** and **Test Automation** (UI & API (Beginner) ), **Performance Testing**, then **Bug Tracking**, built on a strong foundation of **SDLC/STLC**. <br>
 🚀 I'm leveraging my experience from **Bangkit Academy** and **Celerates Cybersecurity** to deliver secure and high-quality applications. <br>
 👯 I'm open to collaborating on open-source QA and software testing projects to enhance code coverage and quality. <br>
 ⚡ I enjoy designing comprehensive **Test Cases**, and solving critical quality issues before production. <br>
