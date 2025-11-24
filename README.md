@@ -65,9 +65,9 @@ Kumpulan proyek pengujian, mulai dari *Manual Testing* hingga implementasi *Auto
 ---
 
 # 📊 GitHub Stats:
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=[YourUsername]&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[YourUsername]&layout=compact&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AaySina&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AaySina&layout=compact&theme=tokyonight)
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=[YourUsername]&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=AaySina&icon=0&color=0)](https://visitcount.itsvg.in)
